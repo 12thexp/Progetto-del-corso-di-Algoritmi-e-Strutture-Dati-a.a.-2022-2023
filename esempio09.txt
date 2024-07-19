@@ -1,0 +1,101 @@
+100
+1 | Results of recent heuristics | Callegarini & Grimaldi | 30 & 35 & 10 & 100 & 17 & 12 & 52 & 85 & 86 & 54 & 24 & 42 & 55
+2 | Inequalities of unified schemes | Haryadi | 8 & 72 & 11 & 29 & 92 & 3 & 54 & 41 & 25 & 38 & 69 & 88 & 91 & 85
+3 | Solving efficient machines | Simoni & Marra | 23 & 47 & 97 & 62 & 78 & 35 & 95 & 54 & 44 & 93 & 53 & 8 & 85 & 19 & 81 & 40 & 20 & 87 & 73
+4 | Stable algorithms of analysis | Agostini & Quadalti & Cecere | 5 & 86 & 87 & 7 & 70 & 77 & 44 & 62 & 96 & 2 & 79 & 9 & 26 & 98
+5 | Medians of lexicographic algorithms | DiSabato & Cichon | 73 & 20 & 40 & 21 & 37 & 81 & 91 & 60 & 12 & 82 & 23 & 64
+6 | Classes of recent results | Carrara & Scipioni & Ferrarese & Botnariu | 37 & 72 & 99 & 94 & 20 & 75 & 71 & 43 & 48 & 83 & 42 & 60 & 46 & 76 & 97 & 59 & 80 & 82 & 73 & 38
+7 | Converging parallel cycles | Gentile & Tronconi | 19 & 1 & 67 & 51 & 88 & 22 & 100 & 74 & 96 & 33 & 85 & 68 & 60 & 73 & 9 & 50
+8 | Graphical orders of algorithms | Teodorani & Iatalese & Sassi & Pal | 14 & 28 & 72 & 53 & 23 & 68 & 66 & 36 & 43 & 65 & 40 & 74 & 85 & 26 & 57 & 4 & 45 & 48 & 15
+9 | Identical trees of heuristics | Fontanella & Nini & Fusini | 8 & 91 & 87 & 15 & 83 & 73 & 78 & 69 & 29 & 14 & 7 & 32 & 95 & 24 & 31 & 40 & 21 & 34 & 5 & 89
+10 | Polyhedral advances of maximization | Metozzi | 79 & 21 & 66 & 100 & 48 & 24 & 94 & 60 & 8 & 96 & 36
+11 | Results of parallel orders | Quadalti & Fontana | 61 & 78 & 56 & 8 & 99 & 39 & 5 & 48 & 81 & 85 & 2 & 41
+12 | Covering identical approximability | Tarnogrodzki & Lippi | 56 & 87 & 93 & 33 & 73 & 82 & 40 & 92 & 50 & 7 & 16 & 55
+13 | Geometric machines of heuristics | Baldinotti & Fico | 80 & 37 & 77 & 25 & 100 & 19 & 11 & 16 & 89 & 73 & 23
+14 | Optimization of dual bounds | Jianu & Santana | 63 & 43 & 27 & 68 & 17 & 41 & 86 & 46 & 38 & 51 & 29 & 77 & 15 & 69 & 30
+15 | Generalized problems of colours | Freschi & Hossain & Rosati | 78 & 21 & 70 & 77 & 57 & 92 & 71 & 97 & 76 & 94 & 16 & 7 & 61 & 81 & 59 & 84
+16 | Paths of polyhedral sequences | Minelli & Freschi & Fasano | 4 & 89 & 82 & 53 & 26 & 2 & 73 & 25 & 55 & 74 & 6 & 13 & 65 & 100
+17 | Greedy models of numbers | Botnariu & Liberto & Contento | 1 & 76 & 71 & 27 & 91 & 37 & 57 & 56 & 61 & 98 & 99 & 20 & 80 & 42
+18 | Switching recent relations | DiRenna & Veneziano & DeSantis | 74 & 37 & 19 & 58 & 15 & 68 & 76 & 6 & 60 & 26 & 66 & 88 & 39 & 3 & 85 & 2 & 89 & 42 & 47
+19 | Converging infinite relaxation | Bonsignore & Ferrante | 26 & 88 & 48 & 87 & 79 & 30 & 53 & 68 & 94 & 25
+20 | Colours of hard numbers | Buongrazio & Scipioni | 15 & 46 & 78 & 52 & 25 & 98 & 40 & 81 & 36 & 1 & 34 & 29 & 73 & 62
+21 | Algebraic machines of pairs | Odigwe & Giannetti & Potalivo | 4 & 17 & 94 & 29 & 16 & 47 & 43 & 48 & 8 & 99 & 38 & 27
+22 | Coordinates of integer poytopes | Stefoni & Gallio & Contento & Perrone | 20 & 41 & 31 & 18 & 32 & 98 & 27 & 57 & 52 & 8 & 65 & 55 & 88 & 35 & 83 & 78 & 79 & 17 & 3 & 68
+23 | Permuting weighted pairs | Cecchetti & Iatalese | 17 & 89 & 85 & 16 & 92 & 97 & 72 & 15 & 94 & 83 & 13 & 63 & 24
+24 | Efficient coordinates of machines | Metozzi | 93 & 64 & 65 & 92 & 100 & 19 & 57 & 13 & 18 & 32 & 61 & 22 & 90 & 27 & 56
+25 | Scheduling polyhedral pairs | Fontana | 27 & 57 & 78 & 5 & 74 & 71 & 65 & 96 & 88 & 48 & 12 & 59 & 49
+26 | Parallel pairs of errors | D'Amico & Massa & Sorrentini & Iatalese | 16 & 71 & 11 & 77 & 58 & 69 & 64 & 84 & 27 & 12 & 41 & 51
+27 | Formulations of balanced constraints | Cenciarelli & Mamone & Hossain & D'Amico | 5 & 38 & 98 & 79 & 30 & 10 & 9 & 94 & 93 & 17 & 60 & 65 & 78 & 36
+28 | Hard algorithms of machines | Liberto & Vitali & Longo | 47 & 85 & 90 & 31 & 79 & 8 & 16 & 19 & 92 & 63 & 96 & 42
+29 | Generating binary agents | Resende | 36 & 56 & 49 & 7 & 55 & 96 & 98 & 13 & 10 & 99 & 30 & 54 & 17 & 72 & 71 & 35 & 73 & 66
+30 | Small cycles of approaches | Medda & Fiumi & Jianu | 77 & 26 & 83 & 66 & 97 & 29 & 71 & 78 & 67 & 63
+31 | Classes of multiple approximability | Chaibi & Agostini & Apreda | 54 & 45 & 55 & 52 & 46 & 63 & 34 & 37 & 18 & 44
+32 | Identifying real methods | Balloni | 38 & 68 & 10 & 35 & 45 & 75 & 57 & 22 & 58 & 11 & 20
+33 | Models of dual advances | Crognale | 12 & 4 & 7 & 78 & 38 & 11 & 99 & 39 & 27 & 94 & 97 & 41
+34 | Schemes of algebraic machines | Fiumi & Fusini | 84 & 62 & 63 & 87 & 8 & 69 & 15 & 95 & 67 & 37 & 52 & 64 & 61 & 68 & 26
+35 | Balanced heuristics of models | Parisi & DiMario | 14 & 48 & 84 & 86 & 95 & 27 & 13 & 78 & 18 & 93 & 41
+36 | Enumerating graphical poytopes | Zolnowski & Fiordigigli & Massa & Wenz | 73 & 19 & 39 & 27 & 22 & 18 & 20 & 7 & 56 & 17 & 77 & 32 & 26 & 41 & 40 & 99 & 47 & 24
+37 | Medians of complete maximization | Antonelli | 59 & 31 & 61 & 66 & 85 & 80 & 78 & 42 & 22 & 67 & 75 & 19 & 40 & 11 & 52 & 58 & 64 & 81
+38 | Matrices of quadratic approximability | Seri & Iatalese | 37 & 63 & 43 & 71 & 62 & 79 & 27 & 46 & 50 & 20 & 3 & 93 & 16 & 66 & 17 & 2 & 83 & 45 & 67
+39 | Schemes of symmetric analysis | Angelicchio & Cecchetti & Barbieri & Santoro | 51 & 69 & 8 & 59 & 63 & 50 & 40 & 11 & 38 & 87 & 84
+40 | Polyhedral inequalities of formulations | Veneziano & Ferrante & Zavoli | 74 & 42 & 55 & 84 & 9 & 30 & 31 & 44 & 63 & 59 & 50 & 95 & 65 & 51
+41 | Polynomial matrices of bounds | Marra & D'Emilia | 66 & 65 & 72 & 58 & 62 & 64 & 8 & 79 & 34 & 97 & 40 & 78 & 50 & 13 & 32 & 61 & 68 & 27
+42 | Formulations of recent consistency | Grimaldi & Patwary | 50 & 33 & 6 & 28 & 21 & 52 & 32 & 63 & 86 & 5 & 60 & 26 & 2 & 29
+43 | Pairs of worst-case equations | Antonello & Seri | 66 & 97 & 9 & 96 & 60 & 58 & 81 & 48 & 59 & 83 & 33 & 4 & 18 & 79 & 49 & 75 & 65 & 23 & 13 & 67
+44 | Graphical cycles of paths | Spoletini & Cenciarelli & Salamone | 93 & 75 & 21 & 84 & 37 & 54 & 32 & 40 & 35 & 8 & 92 & 5 & 43 & 7 & 77 & 4 & 70 & 96
+45 | Programming of weighted trees | Tarnogrodzki | 47 & 39 & 38 & 4 & 80 & 13 & 15 & 2 & 32 & 64
+46 | Selecting finite numbers | Fontanella | 67 & 66 & 27 & 20 & 44 & 39 & 32 & 61 & 51 & 78 & 29 & 37 & 85 & 9 & 68 & 64 & 97 & 8
+47 | Paths of linear inequalities | Bonsignore | 20 & 50 & 89 & 32 & 94 & 46 & 43 & 17 & 14 & 49 & 31 & 25 & 13 & 64 & 7 & 34
+48 | Agents of exact trees | Quadalti | 11 & 69 & 84 & 81 & 3 & 18 & 33 & 86 & 32 & 96 & 83 & 4 & 62 & 94 & 91 & 15 & 43 & 79 & 89
+49 | Converging worst-case orders | Policarpo | 54 & 81 & 52 & 59 & 31 & 20 & 41 & 43 & 92 & 32 & 51 & 2 & 18 & 48 & 82 & 56 & 1 & 89
+50 | Covering integrated medians | Ceccaroni & Strazzanti & Grossi | 48 & 54 & 26 & 17 & 77 & 82 & 49 & 72 & 60 & 7 & 39 & 19 & 20 & 1 & 83 & 65 & 71 & 18 & 6
+51 | Methods of algebraic programming | Piga & Battelli & Carrara | 19 & 95 & 94 & 68 & 8 & 45 & 2 & 12 & 18 & 71 & 75
+52 | Equations of exact classes | Hossain & Simonetti & Palazzari | 97 & 91 & 57 & 12 & 25 & 74 & 62 & 29 & 60 & 85 & 51 & 98 & 28 & 95 & 33 & 39 & 48 & 86
+53 | Scheduling geometric sequences | Catalano & Haryadi & Taurone & Mariani | 79 & 38 & 30 & 48 & 44 & 17 & 96 & 77 & 83 & 40 & 49 & 78 & 45 & 12 & 60 & 23 & 41 & 50 & 24 & 75
+54 | Problems of submodular programming | Popescu | 46 & 5 & 33 & 26 & 10 & 29 & 44 & 65 & 93 & 64 & 58 & 99 & 49 & 73 & 61
+55 | Worst-case classes of approximability | Fontana & Parisi & Urbini | 63 & 32 & 72 & 56 & 87 & 91 & 46 & 89 & 96 & 45 & 47 & 21 & 44 & 99 & 64 & 16
+56 | Analysis of large analysis | Mangano | 1 & 11 & 93 & 24 & 66 & 29 & 36 & 68 & 4 & 92 & 13 & 25 & 41 & 22 & 46 & 70 & 49
+57 | Problems of efficient approximability | Baldinotti & Boubaker & Taurone | 84 & 75 & 56 & 20 & 14 & 40 & 21 & 15 & 16 & 24 & 99 & 76
+58 | Numbers of dual algorithms | Gallio | 62 & 80 & 14 & 98 & 64 & 5 & 8 & 33 & 81 & 91 & 50 & 66 & 79 & 18 & 40 & 88 & 24 & 75
+59 | Maximization of greedy matrices | Pello & Borghini & Zanella | 72 & 94 & 87 & 83 & 41 & 80 & 100 & 56 & 88 & 5 & 19 & 82 & 62 & 78 & 25
+60 | Clustering hard colours | Marra | 32 & 54 & 69 & 2 & 66 & 26 & 41 & 12 & 47 & 42 & 3 & 93
+61 | Optimization of submodular graphs | Poni & Cecere & Piga | 23 & 14 & 52 & 12 & 83 & 81 & 59 & 67 & 17 & 9 & 71 & 64 & 22 & 86 & 15 & 56
+62 | Algorithms of approximation matrices | Lunerti & Spalletta & Barbieri & Massa | 74 & 28 & 24 & 58 & 25 & 10 & 60 & 47 & 33 & 55 & 65 & 45 & 67 & 4 & 1
+63 | Maximization of efficient inequalities | Wenz & Piga & Zanella & Balloni | 49 & 100 & 39 & 96 & 80 & 19 & 68 & 45 & 32 & 25
+64 | Searching new optimization | Metozzi & Ferrante & Ceccaroni | 9 & 81 & 18 & 1 & 38 & 57 & 37 & 22 & 94 & 47 & 50 & 65 & 44 & 80 & 82 & 24 & 13
+65 | Exponential approximability of bounds | Severi & Spalletta & Paolini | 78 & 73 & 36 & 92 & 61 & 79 & 76 & 89 & 93 & 67 & 82 & 20 & 31 & 95 & 22 & 52 & 11 & 23
+66 | Binary models of trees | Potalivo | 21 & 15 & 22 & 51 & 85 & 91 & 95 & 5 & 36 & 7 & 23 & 6 & 62 & 9 & 78 & 25
+67 | Efficient orders of consistency | Odigwe & Caruso & Meloni & Nini | 66 & 100 & 39 & 33 & 81 & 28 & 31 & 7 & 41 & 95 & 12 & 97 & 46 & 90
+68 | Algebraic schemes of matrices | Crognale & Lazazzera & Espositi & Vitali | 7 & 100 & 79 & 92 & 64 & 78 & 34 & 29 & 4 & 56 & 26 & 33 & 65
+69 | Models of identical advances | Vandenbulcke & Minelli & Sepe | 12 & 14 & 98 & 10 & 38 & 74 & 59 & 53 & 93 & 15
+70 | Permuting linear maximization | Gindre & Veneziano & Corraretti | 6 & 25 & 8 & 15 & 88 & 54 & 97 & 83 & 96 & 16 & 75 & 31 & 10 & 29
+71 | Heuristics of mathematical methods | Teodorani & Agostini & Gagliardi & Zolnowski | 27 & 89 & 80 & 17 & 7 & 92 & 37 & 88 & 46 & 52 & 5 & 25 & 42 & 83 & 62 & 30
+72 | Models of primal matrices | Sartorio & Filagna & Giannetti & Sassi | 80 & 35 & 37 & 18 & 77 & 9 & 93 & 46 & 50 & 92 & 11 & 81 & 12 & 8 & 3 & 76 & 36 & 79 & 13 & 30
+73 | Applying real trees | Cusin | 54 & 49 & 46 & 27 & 98 & 50 & 3 & 92 & 26 & 63 & 39 & 74 & 77
+74 | Results of geometric colours | Mangano | 4 & 69 & 11 & 7 & 87 & 70 & 33 & 83 & 50 & 43 & 76 & 93 & 67 & 27 & 57 & 98 & 59 & 94 & 17
+75 | Applying optimal bounds | Piga | 45 & 2 & 96 & 58 & 15 & 83 & 88 & 77 & 1 & 13 & 47 & 91 & 68 & 20 & 4 & 25 & 3
+76 | Formulations of real design | Ferro & Gargiulo & Zolnowski & Lanconelli | 72 & 47 & 67 & 84 & 8 & 87 & 83 & 7 & 5 & 69 & 13 & 32 & 45 & 38 & 86 & 6 & 35
+77 | Errors of large bounds | Bassani & Santoro & Botnariu | 29 & 27 & 79 & 92 & 74 & 4 & 22 & 26 & 66 & 3 & 48 & 23
+78 | Clustering disjoint agents | Vitali & Piccolo | 4 & 77 & 67 & 99 & 9 & 19 & 47 & 46 & 76 & 58
+79 | Inequalities of polynomial coordinates | Capanna & Monsone & Baroni | 21 & 73 & 78 & 64 & 32 & 29 & 62 & 14 & 5 & 81 & 89 & 33 & 37 & 99 & 45 & 17 & 58 & 27 & 36 & 49
+80 | Cycles of exponential cycles | Santoro & Coluccia | 48 & 76 & 3 & 44 & 25 & 14 & 52 & 84 & 66 & 24 & 86 & 46 & 35 & 49 & 59 & 78 & 96 & 20 & 98
+81 | Schemes of inner machines | Spoletini | 44 & 21 & 100 & 46 & 48 & 75 & 49 & 33 & 67 & 39 & 20 & 51 & 86
+82 | Assuming greedy approaches | Iatalese & Coluccia & Iacobelli & Gindre | 10 & 63 & 75 & 25 & 83 & 98 & 53 & 19 & 70 & 57
+83 | Computing algebraic heuristics | Bushulli & Paolini & Gallio | 40 & 20 & 38 & 90 & 26 & 79 & 21 & 56 & 66 & 33 & 10 & 52
+84 | Problems of integrated trees | Zolea | 57 & 65 & 58 & 7 & 35 & 9 & 40 & 8 & 87 & 25 & 39 & 95 & 37 & 89 & 38
+85 | Relaxation of dual trees | DeFlorio & Pello & Massa | 11 & 1 & 50 & 75 & 72 & 43 & 93 & 12 & 36 & 76 & 59 & 79 & 86 & 45 & 6 & 20 & 3 & 70 & 52 & 9
+86 | Switching parallel schemes | Teodorani & Taurone | 63 & 8 & 52 & 80 & 28 & 32 & 74 & 10 & 15 & 99 & 58 & 61 & 48 & 35 & 53 & 22 & 31
+87 | Permuting hard relaxation | Pello & Piccolo & Zolnowski & Gutjahr | 7 & 82 & 96 & 85 & 93 & 2 & 40 & 80 & 91 & 57 & 39 & 54 & 46 & 20 & 42 & 25 & 23 & 3
+88 | Maximum analysis of relations | Wicher | 30 & 96 & 93 & 23 & 59 & 92 & 13 & 87 & 3 & 61 & 62 & 9 & 19 & 80 & 48 & 8 & 52 & 6
+89 | Enumerating balanced equations | Borghini & Fiumi & Simoni | 58 & 8 & 4 & 78 & 57 & 22 & 61 & 43 & 14 & 73 & 85 & 23 & 39
+90 | Dual orders of constraints | Freschi & Bernardi & Patwary | 37 & 21 & 87 & 19 & 22 & 5 & 28 & 60 & 38 & 33 & 81 & 77 & 26 & 84 & 58 & 61 & 98 & 52 & 16
+91 | Complete problems of results | Ortu & Perrone | 74 & 19 & 80 & 57 & 78 & 9 & 93 & 11 & 18 & 37 & 77 & 87 & 59 & 55 & 89 & 79
+92 | Inequalities of outer classes | Pello | 67 & 70 & 94 & 59 & 14 & 16 & 6 & 7 & 99 & 72 & 27 & 65
+93 | Characterizing parallel paths | Fortini | 77 & 69 & 45 & 82 & 83 & 43 & 9 & 24 & 37 & 36 & 91 & 57 & 4 & 71 & 5 & 26
+94 | Poytopes of algorithmic heuristics | Fiordigigli & Massa & Borghini & Morsiani | 63 & 14 & 76 & 89 & 67 & 74 & 31 & 44 & 62 & 75 & 61 & 78 & 77 & 50 & 90 & 45 & 5 & 54 & 10
+95 | Polynomial bounds of maximization | Pasquini & Farazi & Spoletini | 41 & 93 & 8 & 63 & 74 & 33 & 30 & 56 & 76 & 44 & 22 & 28 & 43
+96 | Coordinates of large machines | Veneziano & Ferri & Santana | 9 & 65 & 13 & 64 & 71 & 50 & 86 & 81 & 88 & 39 & 57
+97 | Formulations of quadratic agents | Fortini & DeFlorio & Panchetti & Orlandi | 79 & 10 & 60 & 98 & 36 & 70 & 6 & 21 & 11 & 80 & 99 & 74 & 30 & 20
+98 | Converging disjoint advances | Pagano | 74 & 63 & 75 & 76 & 89 & 64 & 94 & 95 & 1 & 93 & 44 & 3 & 23 & 5 & 46
+99 | Approximability of algebraic agents | Riccati & Fontana & Lucani & Policarpo | 88 & 76 & 67 & 95 & 28 & 23 & 59 & 57 & 47 & 17 & 38 & 43 & 37 & 26 & 21 & 82
+100 | Assigning geometric paths | Borghini & Angelicchio & Mariano | 62 & 66 & 3 & 76 & 15 & 63 & 4 & 91 & 89 & 81 & 5 & 56 & 42
